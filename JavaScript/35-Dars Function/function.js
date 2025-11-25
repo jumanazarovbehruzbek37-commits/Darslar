@@ -9,7 +9,7 @@
 // }
 // addTwoNumber(15, 25);
 
-function indBigNumber(a, b) {
+function findBigNumber(a, b) {
 if (a > b) {
     console.log("a");
 } else {
@@ -17,4 +17,4 @@ if (a > b) {
 }
 }
 
-findBigNumber(80, 60)
+findBigNumber(80, 60);
